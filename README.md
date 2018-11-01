@@ -5,7 +5,7 @@ All commands are organized into categories represented by files where each comma
 
 ## List of commands by categories:  
 ### Theme Related
-- [List all sites in a network with a specific theme active](https://github.com/eventespresso/wp-cli-command-library/list-sites-with-certain-active-theme.md).
+- [List all sites in a network with a specific theme active](https://github.com/eventespresso/wp-cli-command-library/blob/master/list-sites-with-certain-active-theme.md).
 
 
 # Submitting Your Command
