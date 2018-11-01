@@ -12,9 +12,9 @@ In the command above a **baskerville** theme is used as an example. Replace **ba
 ### Sample Output
 
 ```
-0 = http://nazartests.makeeventsnotwar.com/
+0 = https://some.testsite.com/
 ```
 
 ### Variations
 
-_In this section could go any possible variations of the command_
+_Any possible variations of this command should go here_
